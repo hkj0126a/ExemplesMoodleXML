@@ -9,7 +9,7 @@
 -->
 
 <quiz>
-<question type="multichoice">
+<question type="question multichoice">
 	<name>
 		<text>Demo question à choix multiples</text>
 	</name>
